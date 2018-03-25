@@ -54,9 +54,10 @@ dkms.conf
 #windows sourceinsight project files
 *.si4project/
 
-#file server
+#exectute
 file_server
 file_client
+linklist
 
 #test file
 *.txt
