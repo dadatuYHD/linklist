@@ -1,9 +1,9 @@
 /********************************************************
-*   Copyright (C) 2016 All rights reserved.
+*   Copyright (C) 2020 All rights reserved.
 *   
 *   Filename:linklist.c
-*   Author  :tanw
-*   Date    :2016-08-02
+*   Author  :yhd
+*   Date    :2020-09-16
 *   Describe:
 *
 ********************************************************/
